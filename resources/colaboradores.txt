@@ -1,0 +1,6 @@
+Guia;Paula Hernandez;9 5555 1111;paula@example.com;Baquedano;45;Llanquihue;Los Lagos
+Operador;Diego Mansilla;9 5555 2222;diego@example.com;Costanera;220;Puerto Varas;Los Lagos
+Proveedor;Sofia Alarcon;9 5555 3333;sofia@example.com;Av. Colon;310;Frutillar;Los Lagos
+Guia;Matias Soto;9 5555 4444;correo-sin-formato;San Martin;12;Llanquihue;Los Lagos
+Proveedor;Camila Rojas;9 5555 5555;camila@example.com;Los Alerces;78;Puerto Octay;Los Lagos
+Operador;Valentina Perez;9 5555 6666;diego@example.com;Costanera;510;Llanquihue;Los Lagos

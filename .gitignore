@@ -1,0 +1,10 @@
+# IntelliJ IDEA project settings
+.idea/
+*.iml
+
+# Java build output
+out/
+*.class
+
+# Keep the functional distribution JAR under version control
+# (Do not ignore dist/)
